@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: I don't like Coffee
-image: /img/home-jumbotron.jpg
+image: /img/herzlich_willkommen.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
